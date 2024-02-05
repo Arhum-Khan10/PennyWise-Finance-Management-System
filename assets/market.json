@@ -1,0 +1,97 @@
+[
+    {
+        "Name": "Mcoffeebook",
+        "Price": 397499.25,
+        "Quantity": 50
+    },
+    {
+        "Name": "Smartphone Pro",
+        "Price": 59999.25,
+        "Quantity": 100
+    },
+    {
+        "Name": "Ultra HD TV",
+        "Price": 112499.25,
+        "Quantity": 30
+    },
+    {
+        "Name": "Wireless Headphones",
+        "Price": 11249.25,
+        "Quantity": 80
+    },
+    {
+        "Name": "Digital Camera Deluxe",
+        "Price": 67499.25,
+        "Quantity": 20
+    },
+    {
+        "Name": "Home Theater System",
+        "Price": 44999.25,
+        "Quantity": 40
+    },
+    {
+        "Name": "Gaming Console Ultimate",
+        "Price": 299999.25,
+        "Quantity": 60
+    },
+    {
+        "Name": "Fitness Tracker Pro",
+        "Price": 5999.25,
+        "Quantity": 150
+    },
+    {
+        "Name": "High-Performance Blender",
+        "Price": 9749.25,
+        "Quantity": 25
+    },
+    {
+        "Name": "Designer Watch",
+        "Price": 22499.25,
+        "Quantity": 15
+    },
+    {
+        "Name": "Smart Speaker",
+        "Price": 7499.25,
+        "Quantity": 75
+    },
+    {
+        "Name": "Electric Toothbrush",
+        "Price": 3749.25,
+        "Quantity": 120
+    },
+    {
+        "Name": "Portable Charger",
+        "Price": 2249.25,
+        "Quantity": 200
+    },
+    {
+        "Name": "Wireless Mouse",
+        "Price": 1499.25,
+        "Quantity": 150
+    },
+    {
+        "Name": "Mechanical Keyboard",
+        "Price": 5999.25,
+        "Quantity": 80
+    },
+    {
+        "Name": "Gaming Monitor",
+        "Price": 18749.25,
+        "Quantity": 30
+    },
+    {
+        "Name": "External Hard Drive",
+        "Price": 4499.25,
+        "Quantity": 100
+    },
+    {
+        "Name": "WiFi Router",
+        "Price": 5249.25,
+        "Quantity": 50
+    },
+    {
+        "Name": "Noise-Cancelling Earbuds",
+        "Price": 9749.25,
+        "Quantity": 70
+    }
+]

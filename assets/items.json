@@ -1,0 +1,46 @@
+[
+    {
+        "Name": "Apple",
+        "Price": 12.3
+    },
+    {
+        "Name": "Banana",
+        "Price": 6.74
+    },
+    {
+        "Name": "Cherry",
+        "Price": 24.4
+    },
+    {
+        "Name": "Date",
+        "Price": 17.8
+    },
+    {
+        "Name": "Elderberry",
+        "Price": 35.6
+    },
+    {
+        "Name": "Fig",
+        "Price": 23.4
+    },
+    {
+        "Name": "Grape",
+        "Price": 28.9
+    },
+    {
+        "Name": "Honeydew",
+        "Price": 45.6
+    },
+    {
+        "Name": "Ice Cream",
+        "Price": 56.7
+    },
+    {
+        "Name": "Kiwi",
+        "Price": 123.5
+    },
+    {
+        "Name": "Pear",
+        "Price": 100.05
+    }
+]
