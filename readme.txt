@@ -24,3 +24,8 @@ System Requirements
 Operating System: Windows, macOS, or Linux
 IDE: Visual Studio or any compatible C# development environment
 Dependencies: Ensure all necessary dependencies are installed as per the project documentation.
+
+This project was made by me and my three teammates:
+Mohammad Malik: https://github.com/mohammad-malik
+Manal Aamir: https://github.com/manal-aamir
+Aqsa Fayyaz.
